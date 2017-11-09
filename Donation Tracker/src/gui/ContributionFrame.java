@@ -302,10 +302,7 @@ public class ContributionFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void menuButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuButtonActionPerformed
-        MainFrame mf = new MainFrame();
-        mf.setVisible(true);
-        mf.setLocationRelativeTo(null);
-        this.setVisible(false);
+      
     }//GEN-LAST:event_menuButtonActionPerformed
 
     private void donorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_donorActionPerformed

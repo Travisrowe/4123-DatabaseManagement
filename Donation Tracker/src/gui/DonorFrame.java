@@ -228,7 +228,7 @@ public class DonorFrame extends javax.swing.JFrame {
                 .addGroup(addPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(resetButton)
                     .addComponent(deleteButton))
-                .addContainerGap(59, Short.MAX_VALUE))
+                .addContainerGap(36, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -249,7 +249,7 @@ public class DonorFrame extends javax.swing.JFrame {
                         .addComponent(fundButton, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
                         .addComponent(reportButton, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(addPanel, javax.swing.GroupLayout.DEFAULT_SIZE, 602, Short.MAX_VALUE))
+                    .addComponent(addPanel, javax.swing.GroupLayout.PREFERRED_SIZE, 602, Short.MAX_VALUE))
                 .addContainerGap(321, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
